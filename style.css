@@ -69,14 +69,22 @@ nav ul li a:hover::after{
 }
 .header-text p{
     margin-top: 1%;
-    font-family: Cherolina;
-    font-size: 30px;
+    font-family: Rage;
+    font-size: 19px;
 }
 
+nav h1{
+    
+}
 
 .header-text h1{
-    font-size: 30px;
+    font-size: 3px;
     margin-top: 10px;
+}
+
+.typewriter{
+    margin-top: 1%;
+    font-size: 15px;
 }
 
 .header-text h1 span{
@@ -376,7 +384,7 @@ nav .fa-solid{
     }
     
     .header-text h1{
-        font-size: 20px;
+        font-size: 15px;
         font-family: Verdana, Geneva, Tahoma, sans-serif;
     }
 
