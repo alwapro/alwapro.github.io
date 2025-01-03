@@ -68,23 +68,25 @@ nav ul li a:hover::after{
     font-size: 30px;
 }
 .header-text p{
-    margin-top: 1%;
-    font-family: Rage;
-    font-size: 19px;
+    margin-top: 16%;
+    font-family: 'poppins', sans-serif;
+    font-size: 25px;
 }
 
-nav h1{
-    
+.typewriter-text{
+    font-size: 25px;
+    font-family: 'poppins', sans-serif;
 }
 
 .header-text h1{
-    font-size: 3px;
-    margin-top: 10px;
+    font-size: 10px;
+    margin-top: 1px;
 }
 
 .typewriter{
     margin-top: 1%;
-    font-size: 15px;
+    font-family: 'poppins', sans-serif;
+    font-size: 25px;
 }
 
 .header-text h1 span{
@@ -384,8 +386,8 @@ nav .fa-solid{
     }
     
     .header-text h1{
-        font-size: 15px;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+        font-family: 'poppins', sans-serif;
     }
 
     nav .fa-solid{
