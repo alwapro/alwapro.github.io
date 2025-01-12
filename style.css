@@ -366,11 +366,11 @@ form .btn2{
 }
 
 /* small screen */
-
+nav .fa-solid{
+    display: none;
 
 @media only screen and (max-width: 600px){
-    nav .fa-solid{
-        display: none;
+    
 }
     #header{
         background-image: url(Img/DASDDDDDDDDDDDDDDDDDDDDD.jpg);
@@ -443,4 +443,4 @@ form .btn2{
     color: #02a51d;
     margin-top: -40;
     display: block;
-}
+};
